@@ -1,0 +1,1715 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "上尾中央総合病院",
+        "description": "上尾市柏座1-10-10",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.586853,
+          35.974873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "上尾中央第二病院",
+        "description": "上尾市地頭方421-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.571701,
+          35.952484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "伊奈病院",
+        "description": "北足立郡伊奈町小室9419",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.626434,
+          35.999348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "医療法人 関越病院",
+        "description": "鶴ヶ島市脚折145-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.387604,
+          35.949642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大宮共立病院",
+        "description": "さいたま市見沼区片柳1550",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.690903,
+          35.904335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大宮双愛病院",
+        "description": "さいたま市大宮区堀の内2-160",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.637238,
+          35.914814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "小川赤十字病院",
+        "description": "比企郡小川町小川1525",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.274277,
+          36.060509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "籠原病院",
+        "description": "熊谷市美土里町3-136",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.31839,
+          36.169003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "笠幡病院",
+        "description": "川越市笠幡4955-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4133,
+          35.903473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "春日部嬉泉病院",
+        "description": "春日部市中央1-53-16",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.753006,
+          35.977108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "春日部市立医療センター",
+        "description": "春日部市中央6-7-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.751007,
+          35.974277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "霞ヶ関南病院",
+        "description": "川越市安比奈新田283-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.419327,
+          35.901829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "上福岡総合病院",
+        "description": "ふじみ野市福岡931",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.539459,
+          35.876835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "川口工業総合病院",
+        "description": "川口市青木1-18-15",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.730835,
+          35.804085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "川口市立医療センター",
+        "description": "川口市西新井宿180",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.730652,
+          35.843933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "かわぐち心臓呼吸器病院",
+        "description": "川口市前川1-1-51",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.707382,
+          35.833817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "北里大学メディカルセンター",
+        "description": "北本市荒井6-100",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.514191,
+          36.010784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "行田総合病院",
+        "description": "行田市持田376",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.449097,
+          36.125862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "行田中央総合病院",
+        "description": "行田市富士見町2-17-17",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.475037,
+          36.147861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "熊谷生協病院",
+        "description": "熊谷市上之3854",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.414948,
+          36.150284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "熊谷総合病院",
+        "description": "熊谷市中西4-5-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.396561,
+          36.14838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "圏央所沢病院",
+        "description": "所沢市東狭山ケ丘4-2692-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.427856,
+          35.810341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "宏仁会小川病院",
+        "description": "比企郡小川町大字原川205",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.245468,
+          36.067394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "公平病院",
+        "description": "戸田市笹目南町20-16",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.653046,
+          35.812866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "越谷市立病院",
+        "description": "越谷市東越谷10-32",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.803177,
+          35.899837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "小林病院",
+        "description": "入間市宮寺2417",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.378418,
+          35.794537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "埼玉医科大学 国際医療センター",
+        "description": "日高市山根1397-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.322723,
+          35.921574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "埼玉医科大学総合医療センター",
+        "description": "川越市鴨田1981",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.519485,
+          35.934853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "埼玉医科大学病院",
+        "description": "入間郡毛呂山町毛呂本郷38",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.304062,
+          35.936001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "埼玉協同病院",
+        "description": "川口市木曽呂1317",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.71637,
+          35.859715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "埼玉県済生会加須病院",
+        "description": "加須市上高柳1680",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.591843,
+          36.115406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "埼玉県済生会川口総合病院",
+        "description": "川口市西川口5-11-5",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.703049,
+          35.809879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "埼玉県済生会鴻巣病院",
+        "description": "鴻巣市八幡田849",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.501907,
+          36.073032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "埼玉県立がんセンター",
+        "description": "北足立郡伊奈町小室780",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.62767,
+          35.987114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "埼玉県立小児医療センター",
+        "description": "さいたま市中央区新都心1-2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.632233,
+          35.891815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "埼玉県立循環器・呼吸器病センター",
+        "description": "熊谷市板井1696",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.305542,
+          36.110165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "さいたま市民医療センター",
+        "description": "さいたま市西区島根299-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.598175,
+          35.881889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "さいたま市立病院",
+        "description": "さいたま市緑区三室2460",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.678665,
+          35.891266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "埼玉成恵会病院",
+        "description": "東松山市石橋1721",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.378159,
+          36.040394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "埼玉石心会病院",
+        "description": "狭山市入間川2-37-20",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.410812,
+          35.863186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "さいたま赤十字病院",
+        "description": "さいたま市中央区新都心１番地5",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.632233,
+          35.891815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "埼玉西協同病院",
+        "description": "所沢市中富1865-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.483917,
+          35.812584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "埼玉病院",
+        "description": "和光市諏訪2-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.618439,
+          35.775818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "さいたま北部医療センター",
+        "description": "さいたま市北区宮原町1-851",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.619705,
+          35.932766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "埼玉メディカルセンター",
+        "description": "さいたま市浦和区北浦和4-9-3",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.643433,
+          35.872547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "齋藤記念病院",
+        "description": "川口市並木4-6-6",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.707855,
+          35.820522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "彩の国東大宮メディカルセンター",
+        "description": "さいたま市北区土呂町1522",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.638138,
+          35.927402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "坂戸中央病院",
+        "description": "坂戸市南町30-8",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.397934,
+          35.95602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "☆佐々木病院",
+        "description": "深谷市西島町2丁目16番地1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.282883,
+          36.193478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "指扇病院",
+        "description": "さいたま市西区宝来1295-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.561172,
+          35.922798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "指扇療養病院",
+        "description": "さいたま市西区宝来1348-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.561981,
+          35.922382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "塩味病院",
+        "description": "朝霞市溝沼2-4-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.589737,
+          35.800983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "秀和総合病院",
+        "description": "春日部市谷原新田1200",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.747543,
+          35.961826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "庄和中央病院",
+        "description": "春日部市上金崎28",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.796707,
+          35.99955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "白岡中央総合病院",
+        "description": "白岡市小久喜938-12",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.665268,
+          36.013676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "新久喜総合病院",
+        "description": "久喜市上早見418-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65625,
+          36.070473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "自治医科大学附属さいたま医療センター",
+        "description": "さいたま市大宮区天沼町1-847",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.645355,
+          35.907181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "西部総合病院",
+        "description": "さいたま市桜区上大久保884",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.615952,
+          35.872456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "赤心堂病院",
+        "description": "川越市脇田本町25-19",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.480881,
+          35.909199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "草加市立病院",
+        "description": "草加市草加2-21-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.796295,
+          35.83548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "秩父生協病院",
+        "description": "秩父市阿保町1-11",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.087219,
+          36.012634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "秩父第一病院",
+        "description": "秩父市中村町2-8-14",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.077026,
+          35.995773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "土屋小児病院",
+        "description": "久喜市久喜中央3-1-10",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.67392,
+          36.065731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "桃泉園北本病院",
+        "description": "北本市深井3-75",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.525864,
+          36.049809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "藤間病院",
+        "description": "熊谷市末広2-137",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.394394,
+          36.143852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "所沢市市民医療センター",
+        "description": "所沢市上安松1224-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.480103,
+          35.791527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "戸田中央総合病院",
+        "description": "戸田市本町1-19-3",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.680099,
+          35.811363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "豊岡第一病院",
+        "description": "入間市大字黒須1369-3",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.410889,
+          35.833309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "中島病院",
+        "description": "戸田市下戸田2-7-10",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.683945,
+          35.814754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "中田病院",
+        "description": "加須市元町6-8",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.59964,
+          36.122616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "新座志木中央総合病院",
+        "description": "新座市東北1-7-2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.571152,
+          35.820271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "西埼玉中央病院",
+        "description": "所沢市若狭2-1671",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.425156,
+          35.804634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "博仁会共済病院",
+        "description": "さいたま市緑区原山3-15-31",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.675842,
+          35.872219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "蓮田一心会病院",
+        "description": "蓮田市本町3-17",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.651886,
+          35.980373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "蓮田病院",
+        "description": "蓮田市根金1662-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.638824,
+          36.019505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "羽生総合病院",
+        "description": "羽生市下岩瀬446",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.52655,
+          36.159573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "東埼玉総合病院",
+        "description": "幸手市吉野517-5",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.723221,
+          36.053699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "東埼玉病院",
+        "description": "蓮田市黒浜4147",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.674377,
+          35.996758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "東松山医師会病院",
+        "description": "東松山市神明町1-15-10",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.40686,
+          36.03442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "東松山市立市民病院",
+        "description": "東松山市大字松山2392",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.405319,
+          36.054077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "深谷赤十字病院",
+        "description": "深谷市上柴町西5-8-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.294464,
+          36.183231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "福祉医療センター太陽の園",
+        "description": "熊谷市津田1855-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.426605,
+          36.094238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "藤村病院",
+        "description": "上尾市仲町1-8-33",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.591919,
+          35.97271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "武南病院",
+        "description": "川口市東本郷2026",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.758301,
+          35.82843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ヘリオス会病院",
+        "description": "鴻巣市広田824-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.511887,
+          36.104073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "堀ノ内病院",
+        "description": "新座市堀ノ内2-9-31",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.556564,
+          35.771454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "丸山記念総合病院",
+        "description": "さいたま市岩槻区本町2-10-5",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.694946,
+          35.945187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "みさと健和病院",
+        "description": "三郷市鷹野4-494-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.879578,
+          35.799355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "三郷中央総合病院",
+        "description": "三郷市中央4-5-1",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.879028,
+          35.830303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "南越谷病院",
+        "description": "越谷市南越谷1-4-63",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.794189,
+          35.873009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "南古谷病院",
+        "description": "川越市久下戸110",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.528595,
+          35.901451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "明生リハビリテーション病院",
+        "description": "所沢市東狭山ヶ丘4-2681-2",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.426468,
+          35.808529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "八潮中央総合病院",
+        "description": "埼玉県八潮市南川崎845",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.851273,
+          35.813404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "わかくさ病院",
+        "description": "さいたま市南区太田窪1973",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.680984,
+          35.853523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "蕨市立病院",
+        "description": "蕨市北町2-12-18",
+        "marker-size": "large",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.679886,
+          35.828224
+        ]
+      }
+    }
+  ]
+}
